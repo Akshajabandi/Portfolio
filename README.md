@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website built from scratch to showcase my projects, skills, certifications, and contact information.
 
-🔗 **Live Site:** [akshajabandiportfolio.netlify.app](https://akshajabandiportfolio.netlify.app)
+🔗 **Live Site:** [akshajabandiportfolio.netlify.app](https://akshajabandi.netlify.app)
 
 ---
 
