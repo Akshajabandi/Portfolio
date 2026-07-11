@@ -25,12 +25,6 @@ A modern, responsive personal portfolio website built from scratch to showcase m
 
 ---
 
-## 📸 Preview
-
-![Portfolio Preview](preview.png)
-
----
-
 ## 📬 Contact
 
 - 📧 akshajabandi29@gmail.com
